@@ -1,0 +1,21 @@
+.Aboutpage{
+    background-image: url('../../assets/back.jpg');
+    background-size: cover;
+    background-position: center ;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.container{
+color: black ;
+}
+.p{
+    color: white;
+    text-shadow: 2px 2px 1px black;
+    
+}
